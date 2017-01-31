@@ -1,0 +1,4 @@
+conan_data/
+docker_*.sh
+.git/
+.git*
