@@ -1,0 +1,5 @@
+@sSteamCmdForcePlatformType linux
+login anonymous
+force_install_dir /steamcmd/conan
+app_update 443030 validate
+quit
